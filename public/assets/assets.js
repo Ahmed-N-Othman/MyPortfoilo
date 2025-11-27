@@ -99,7 +99,7 @@ export const workData = [
         title: 'Portfoilo ',
         description: 'Web App',
         bgImage: '/work-4.png',
-        link: 'https://example.com/freshcart'
+        link: 'https://my-portfoilo-eight-theta.vercel.app/'
     },
 ]
 
