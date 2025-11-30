@@ -35,9 +35,9 @@ export default function Navbar() {
       >
         <a>
           <Image
-            src={assets.logo}
+            src={assets.logoName}
             className="w-28 cursor-pointer mr-14"
-            alt={assets.logo}
+            alt={assets.logoName}
           />
         </a>
         <ul

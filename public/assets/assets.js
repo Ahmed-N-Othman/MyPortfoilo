@@ -35,6 +35,8 @@ import right_arrow from './right-arrow.png';
 import send_icon from './send-icon.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
+import logoName from "./logoName.png"
+
 
 export const assets = {
     user_image,
@@ -65,6 +67,7 @@ export const assets = {
     menu_black,
     menu_white,
     close_black,
+    logoName,
     close_white,
     web_icon,
     mobile_icon,
