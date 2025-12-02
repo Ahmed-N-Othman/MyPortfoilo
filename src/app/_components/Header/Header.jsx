@@ -4,7 +4,7 @@ import { assets } from "../../../../public/assets/assets";
 
 export default function Header() {
   return (
-    <div className="mx-auto w-11/12 text-center max-w-3xl h-screen mb-7 flex flex-col items-center justify-center gap-4">
+    <div className="mx-auto w-11/12 text-center max-w-3xl h-screen mb-7 pt-20 flex flex-col items-center justify-center gap-4">
       <div>
         <Image
           src={assets.roundProfileImage}
