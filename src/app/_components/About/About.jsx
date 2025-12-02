@@ -10,11 +10,11 @@ export default function About() {
         <h2 className="text-center font-ovo text-5xl ">About me</h2>
 
         <div className="flex flex-col w-full lg:flex-row items-center gap-20 my-20">
-          <div className="w-64 sm:w-80 rounded-3xl max-w-none">
+          <div className="w-64 sm:w-80 rounded-3xl max-w-none ">
             <Image
-              src={assets.user_image}
-              alt={assets.user_image}
-              className="w-full  rounded-3xl"
+              src={assets.profileImage}
+              alt={assets.profileImage}
+              className="w-full   rounded-3xl"
             />
           </div>
           <div className="flex-1">

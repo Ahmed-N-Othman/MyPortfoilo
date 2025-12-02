@@ -7,7 +7,7 @@ export default function Header() {
     <div className="mx-auto w-11/12 text-center max-w-3xl h-screen flex flex-col items-center justify-center gap-4">
       <div>
         <Image
-          src={assets.profile_img}
+          src={assets.roundProfileImage}
           className="rounded-full w-32"
           alt={assets.profile_img}
         />
