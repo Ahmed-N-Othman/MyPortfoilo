@@ -25,7 +25,7 @@ export default function Navbar() {
 
   return (
     <>
-      <div className="fixed top-0 right-0 -z-20 translate-y-[-80%] w-11/12">
+      <div className="fixed top-0 right-0 -z-20 translate-y-[-80%] w-11/12 ">
         <Image src={assets.header_bg_color} alt={assets.header_bg_color} />
       </div>
       <nav
